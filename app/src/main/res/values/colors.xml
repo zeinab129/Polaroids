@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#77A7EF</color>
+    <color name="primaryDark">#498AEA</color>
+    <color name="secondary">#FEEAA5</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="landingBackgroundCenter">#DC000000</color>
+    <color name="landingBackgroundEnd">#F6000000</color>
+    <color name="mintGreen">#81C784</color>
+    <color name="buttonEditNewImage">#FDCB02</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#2a6049</color>
+    <color name="unselectedFilter">#BE000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
